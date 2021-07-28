@@ -1,0 +1,7 @@
+C:\Users\guilh\source\repos\ConsultaCepCorreios\ConsultaCepCorreios\bin\Debug\ConsultaCepCorreios.exe.config
+C:\Users\guilh\source\repos\ConsultaCepCorreios\ConsultaCepCorreios\bin\Debug\ConsultaCepCorreios.exe
+C:\Users\guilh\source\repos\ConsultaCepCorreios\ConsultaCepCorreios\bin\Debug\ConsultaCepCorreios.pdb
+C:\Users\guilh\source\repos\ConsultaCepCorreios\ConsultaCepCorreios\obj\Debug\ConsultaCepCorreios.csproj.AssemblyReference.cache
+C:\Users\guilh\source\repos\ConsultaCepCorreios\ConsultaCepCorreios\obj\Debug\ConsultaCepCorreios.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\ConsultaCepCorreios\ConsultaCepCorreios\obj\Debug\ConsultaCepCorreios.exe
+C:\Users\guilh\source\repos\ConsultaCepCorreios\ConsultaCepCorreios\obj\Debug\ConsultaCepCorreios.pdb
